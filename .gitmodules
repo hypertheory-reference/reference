@@ -1,0 +1,3 @@
+[submodule "hypertheory-web"]
+	path = hypertheory-web
+	url = https://github.com/hypertheory-reference/hypertheory-web.git
