@@ -1,0 +1,8 @@
+extensions:
+  - name: dapr
+
+services:
+  - name: users-api
+    project: UsersBoundedContext/UsersAPI/UsersApi.csproj
+    bindings:
+      - port: 1337
